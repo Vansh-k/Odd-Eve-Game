@@ -18,7 +18,7 @@ First i tested my contract on remix virtual machine then i have deployed the con
         Goerli testnet address --> 0xCD4288fD856BDbd2ea7dA112936a2f8419435631
         
         
-Tests --> 
+        Tests --> 
         1. played the match by putting user input 2.
         <img width="450" alt="Screenshot 2022-09-12 at 9 47 08 PM" src="https://user-images.githubusercontent.com/47215824/189716858-c2b5eb49-105f-4213-a6ab-ebb38da70958.png">
         In this the decode input is number 2 and output is "5 RUNS"
@@ -38,7 +38,7 @@ Tests -->
        5. Screenshot of deploying the smart contract to goeri nestnet at the 
        address = 0xCD4288fD856BDbd2ea7dA112936a2f8419435631
        <img width="962" alt="Screenshot 2022-09-12 at 9 49 08 PM" src="https://user-images.githubusercontent.com/47215824/189719577-605ac410-5188-47b1-8b76-32de6b4138bc.png">
-<img width="1234" alt="Screenshot 2022-09-12 at 9 21 50 PM" src="https://user-images.githubusercontent.com/47215824/189719740-0325095d-41d1-4d5d-bf04-aa7d970467c5.png">
+       <img width="1234" alt="Screenshot 2022-09-12 at 9 21 50 PM" src="https://user-images.githubusercontent.com/47215824/189719740-0325095d-41d1-4d5d-bf04-aa7d970467c5.png">
 
 
        6. Played the game by giving the wrong user input 7. it responded with an error
