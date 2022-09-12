@@ -1,9 +1,9 @@
 # Odd-Eve-Game-Task
 
 I have created the smart contract named oddEvenGame. First I have declared three state variables named score, isEnded and randNonce.
-  1. Score --> uint256 --> this will store the value of computer's scores.
-  2. isEnded --> bool --> this is a flag for the match is ended or not.
-  3. randNonce --> uint256 --> this will store a random nonce which will help to generate random values.
+  1. Score --> uint256 --> This will store computer's scores.
+  2. isEnded --> bool --> This is a flag for the match is ended or not.
+  3. randNonce --> uint256 --> This will store a random nonce which will help to generate random values.
   
 Then I declared and defined some fuctions like -->
 
@@ -14,7 +14,7 @@ Then I declared and defined some fuctions like -->
   or not and and then does the logic part respectively.
               
               
-First i tested my contract on remix virtual machine then I have deployed the contract to goerli testnet.
+First I tested my contract on remix virtual machine then I have deployed the contract to goerli testnet.
         Goerli testnet address --> 0xCD4288fD856BDbd2ea7dA112936a2f8419435631
         
         
