@@ -40,7 +40,7 @@ First I tested my contract on remix virtual machine then I have deployed the con
  <img width="800" alt="Screenshot 2022-09-12 at 9 21 50 PM" src="https://user-images.githubusercontent.com/47215824/189719740-0325095d-41d1-4d5d-bf04-aa7d970467c5.png">
 
    6. Played the game by giving the wrong user input 7. It responded with an error
-   <img width="1234" alt="Screenshot 2022-09-12 at 11 38 37 PM" src="https://user-images.githubusercontent.com/47215824/189725620-2473a6b3-4a24-405f-9ff2-65ceabe18387.png">
+   <img width="800" alt="Screenshot 2022-09-12 at 11 38 37 PM" src="https://user-images.githubusercontent.com/47215824/189725620-2473a6b3-4a24-405f-9ff2-65ceabe18387.png">
 
 
         
