@@ -18,7 +18,7 @@ First i tested my contract on remix virtual machine then i have deployed the con
         Goerli testnet address --> 0xCD4288fD856BDbd2ea7dA112936a2f8419435631
         
         
-        Tests --> 
+Tests --> 
         1. played the match by putting user input 2.
         <img width="450" alt="Screenshot 2022-09-12 at 9 47 08 PM" src="https://user-images.githubusercontent.com/47215824/189716858-c2b5eb49-105f-4213-a6ab-ebb38da70958.png">
         In this the decode input is number 2 and output is "5 RUNS"
@@ -28,5 +28,22 @@ First i tested my contract on remix virtual machine then i have deployed the con
         In this the decode input is number 2 and output is "1 RUNS"
         
         3. played the match once again by putting the user input 2.
-        ![Uploading Screenshot 2022-09-12 at 9.46.58 PM.png…]()
+        <img width="1410" alt="Screenshot 2022-09-12 at 9 46 58 PM" src="https://user-images.githubusercontent.com/47215824/189718695-06060926-1a0a-4f83-ae92-ecc1896336c7.png">
+        In this the decode input is number 2 and output is "18 OUT"
+        
+        4. After the computer got out then i played without hitting the reset button then i got
+        this error that match has ended.. press reset to restart.
+       <img width="958" alt="Screenshot 2022-09-12 at 9 48 30 PM" src="https://user-images.githubusercontent.com/47215824/189719198-badd68a4-f910-4733-8628-c184581fb78d.png">
+       
+       5. Screenshot of deploying the smart contract to goeri nestnet at the 
+       address = 0xCD4288fD856BDbd2ea7dA112936a2f8419435631
+       <img width="962" alt="Screenshot 2022-09-12 at 9 49 08 PM" src="https://user-images.githubusercontent.com/47215824/189719577-605ac410-5188-47b1-8b76-32de6b4138bc.png">
+<img width="1234" alt="Screenshot 2022-09-12 at 9 21 50 PM" src="https://user-images.githubusercontent.com/47215824/189719740-0325095d-41d1-4d5d-bf04-aa7d970467c5.png">
+
+
+       6. Played the game by giving the wrong user input 7. it responded with an error
+       <img width="1440" alt="Screenshot 2022-09-12 at 9 46 14 PM" src="https://user-images.githubusercontent.com/47215824/189719954-22b26be9-8ffb-4d80-a568-9be283bba20d.png">
+
+
+        
 
