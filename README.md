@@ -18,7 +18,7 @@ First I tested my contract on remix virtual machine then I have deployed the con
         Goerli testnet address --> 0xCD4288fD856BDbd2ea7dA112936a2f8419435631
         
         
- Tests --> 
+Tests --> 
   1. Played the match by putting user input 2.
   <img width="800" alt="Screenshot 2022-09-12 at 9 47 08 PM" src="https://user-images.githubusercontent.com/47215824/189716858-c2b5eb49-105f-4213-a6ab-ebb38da70958.png">
   In this the decode input is number 2 and output is "5 RUNS" because the randomly generated number was not equal to 2 and hence it shows the generated number and "RUNS"..
