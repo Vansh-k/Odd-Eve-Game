@@ -21,15 +21,15 @@ First I tested my contract on remix virtual machine then I have deployed the con
  Tests --> 
   1. Played the match by putting user input 2.
   <img width="800" alt="Screenshot 2022-09-12 at 9 47 08 PM" src="https://user-images.githubusercontent.com/47215824/189716858-c2b5eb49-105f-4213-a6ab-ebb38da70958.png">
-  In this the decode input is number 2 and output is "5 RUNS"
+  In this the decode input is number 2 and output is "5 RUNS" because the randomly generated number was not equal to 2 and hence it shows the generated number and "RUNS"..
         
   2. Again played the match by putting user input 2.
   <img width="800" alt="Screenshot 2022-09-12 at 9 47 18 PM" src="https://user-images.githubusercontent.com/47215824/189717803-0c90b74e-9114-40c6-b3b3-105fd319aa54.png">
-  In this the decode input is number 2 and output is "1 RUNS"
+  In this the decode input is number 2 and output is "1 RUNS" because the randomly generated number was not equal to 2 and hence it shows the generated number and "RUNS".
         
   3. Played the match once again by putting the user input 2.
   <img width="800" alt="Screenshot 2022-09-12 at 9 46 58 PM" src="https://user-images.githubusercontent.com/47215824/189718695-06060926-1a0a-4f83-ae92-ecc1896336c7.png">
-  In this the decode input is number 2 and output is "18 OUT"
+  In this the decode input is number 2 and output is "18 OUT" because the randomly generated number was equal to 2 and hence it shows the total score and "OUT".
         
   4. After the computer got out then I played without hitting the reset button so I got this error that match has ended.. press reset to restart
  <img width="800" alt="Screenshot 2022-09-12 at 9 48 30 PM" src="https://user-images.githubusercontent.com/47215824/189719198-badd68a4-f910-4733-8628-c184581fb78d.png">
